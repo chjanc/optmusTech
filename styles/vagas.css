@@ -1,0 +1,59 @@
+.vagas-abertas {
+    text-align: center;
+    margin: 5em 0;
+}
+
+.vagas-span {
+    color: var(--bordo);
+    font-size: 14px;
+    background-color: #fff7f7;
+    border-radius: 10px;
+    padding: 0.3em 1em;
+}
+
+.vagas-talentos {
+    color: var(--cinza-preto);
+    font-size: 36px;
+    font-weight: 600;
+    margin: 1em 0;
+}
+
+.vagas-texto {
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--cinza);
+}
+
+.vagas-imagem {
+    width: 85%;
+    margin-top: 3em;
+}
+
+.vaga {
+    margin: 2em auto;
+    border: 0.1px solid #eee7e7;
+    border-radius: 12px;
+    width: 50%;
+    padding: 1.5em;
+}
+
+.vaga-oferta {
+    font-size: 20px;
+    color: var(--cinza-preto);
+    margin-left: 17em;
+}
+
+.titulo-vaga {
+    font-size: 18px;
+    color: var(--cinza-preto);
+}
+
+.informacoes {
+    font-size: 16px;
+    color: var(--cinza);
+    margin-top: 2em;
+}
+
+.full-time {
+    padding-right: 1em;
+}

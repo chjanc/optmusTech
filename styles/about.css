@@ -1,0 +1,26 @@
+.sobre-nos {
+    text-align: center;
+    margin: 5em;
+}
+
+.sobre-nos-frase {
+    text-align: center;
+    color: var(--bordo);
+    font-weight: 600;
+}
+
+.sobre-nos-titulo {
+    font-size: 48px;
+    font-weight: 600;
+    margin: 1em;
+    color: var(--cinza-preto);
+}
+
+.sobre-nos-texto {
+    color: var(--cinza);
+    font-weight: 400;
+    font-size: 20px;
+    padding: 0 10em;
+}
+
+
